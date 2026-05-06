@@ -1,6 +1,6 @@
 import requests
 import json
-import win32com.client as wincl
+import win32com.client as wincl # For native speaker
 
 # Initialize the voice engine
 speaker = wincl.Dispatch("SAPI.SpVoice")
