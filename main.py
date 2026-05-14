@@ -15,7 +15,7 @@ except Exception:
 # It's placed here because you asked; for security consider using an environment
 # variable or a local config file instead.
 # -------------------------
-API_KEY = "24a2f401dcac49bc8a515905260205"
+API_KEY = "YOUR_API_KEY_HERE"
 
 BASE_URL = "https://api.weatherapi.com/v1/forecast.json"
 REQUEST_TIMEOUT = 10  # seconds
