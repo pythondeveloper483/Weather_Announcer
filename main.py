@@ -186,7 +186,7 @@ def main():
         # Fetch weather safely
         wdict = fetch_weather(city)
         if wdict is None:
-            err_msg = "Network unavailable or weather service could not be reached. Please check your connection."
+            err_msg = "Network unavailable or weather service could not be reached or you have not configured your API key, Please configure your API key. Please check your connection."
             print(err_msg)
             if speaker:
                 try:
