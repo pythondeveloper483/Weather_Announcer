@@ -21,7 +21,7 @@ A Python-based weather assistant that fetches **current conditions** and a **3-d
 ---
 
 ## 📂 Project Structure
-- `weather_announcer.py` → Main script with voice + weather logic  
+- `main.py` → Main script with voice + weather logic  
 - `README.md` → Documentation for setup and usage  
 
 ---
@@ -35,4 +35,4 @@ A Python-based weather assistant that fetches **current conditions** and a **3-d
 
 Install dependencies:
 ```bash
-pip install requests pywin32
+pip install requests pywin32 
