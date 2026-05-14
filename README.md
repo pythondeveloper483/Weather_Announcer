@@ -25,7 +25,7 @@ A Python-based weather assistant that fetches **current conditions** and a **3-d
 - `README.md` → Documentation for setup and usage  
 
 ---
-
+--- you can add more features that are great you should try
 ## 🔧 Requirements
 - Python 3.x  
 - Libraries:  
